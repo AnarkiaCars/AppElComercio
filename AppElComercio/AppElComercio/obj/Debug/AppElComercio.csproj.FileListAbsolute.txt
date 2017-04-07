@@ -1,0 +1,8 @@
+E:\ExamenElComercio\AppElComercio\AppElComercio\bin\Debug\AppElComercio.dll.config
+E:\ExamenElComercio\AppElComercio\AppElComercio\bin\Debug\AppElComercio.dll
+E:\ExamenElComercio\AppElComercio\AppElComercio\bin\Debug\AppElComercio.pdb
+E:\ExamenElComercio\AppElComercio\AppElComercio\obj\Debug\AppElComercio.csprojResolveAssemblyReference.cache
+E:\ExamenElComercio\AppElComercio\AppElComercio\obj\Debug\AppElComercio.Properties.Resources.resources
+E:\ExamenElComercio\AppElComercio\AppElComercio\obj\Debug\AppElComercio.csproj.GenerateResource.Cache
+E:\ExamenElComercio\AppElComercio\AppElComercio\obj\Debug\AppElComercio.dll
+E:\ExamenElComercio\AppElComercio\AppElComercio\obj\Debug\AppElComercio.pdb

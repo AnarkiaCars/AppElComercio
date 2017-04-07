@@ -1,0 +1,7 @@
+E:\ExamenElComercio\AppElComercio\AppElComercio.Test\bin\Debug\AppElComercio.Test.dll
+E:\ExamenElComercio\AppElComercio\AppElComercio.Test\bin\Debug\AppElComercio.Test.pdb
+E:\ExamenElComercio\AppElComercio\AppElComercio.Test\bin\Debug\AppElComercio.dll
+E:\ExamenElComercio\AppElComercio\AppElComercio.Test\bin\Debug\AppElComercio.pdb
+E:\ExamenElComercio\AppElComercio\AppElComercio.Test\obj\Debug\AppElComercio.Test.csprojResolveAssemblyReference.cache
+E:\ExamenElComercio\AppElComercio\AppElComercio.Test\obj\Debug\AppElComercio.Test.dll
+E:\ExamenElComercio\AppElComercio\AppElComercio.Test\obj\Debug\AppElComercio.Test.pdb

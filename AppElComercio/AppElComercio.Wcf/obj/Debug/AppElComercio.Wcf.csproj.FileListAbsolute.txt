@@ -1,0 +1,5 @@
+E:\ExamenElComercio\AppElComercio\AppElComercio.Wcf\bin\Debug\AppElComercio.Wcf.dll.config
+E:\ExamenElComercio\AppElComercio\AppElComercio.Wcf\bin\Debug\AppElComercio.Wcf.dll
+E:\ExamenElComercio\AppElComercio\AppElComercio.Wcf\bin\Debug\AppElComercio.Wcf.pdb
+E:\ExamenElComercio\AppElComercio\AppElComercio.Wcf\obj\Debug\AppElComercio.Wcf.dll
+E:\ExamenElComercio\AppElComercio\AppElComercio.Wcf\obj\Debug\AppElComercio.Wcf.pdb
